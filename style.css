@@ -1,0 +1,12 @@
+body {
+  background-color: yellow;
+  background-size:200px;
+font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+.post {
+  background-color:white;
+  outline:10px;
+  padding:10px;
+  margin:25px 50px;
+  shadow: 2px 2px 5px black;
+}
