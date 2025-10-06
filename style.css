@@ -1,13 +1,14 @@
 body {
-  background-color: yellow;
+  background-color: gold;
   background-size:200px;
 font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
 }
 .post {
-  background-color:white;
+  background-color:cornsilk;
   outline:10px;
   padding:10px;
   margin:25px 50px;
   shadow: 2px 2px 5px black;
+  border:10px goldenrod;
   border-radius: 25px;
 }
