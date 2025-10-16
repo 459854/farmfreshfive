@@ -10,6 +10,6 @@ font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
   margin:25px 50px;
   shadow: 2px 2px 5px black;
   border:10px goldenrod;
-  border-style:solid;
-  border-radius: 25px;
+  border-style:dotted;
+  border-radius: 10px;
 }
