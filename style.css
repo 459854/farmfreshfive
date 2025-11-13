@@ -13,3 +13,8 @@ font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
   border-style:dashed;
   border-radius: 10px;
 }
+.inset{
+  padding:5px 10px;
+  box-shadow:inset 2px 2px 5px black;
+  border-radius:10px;
+}
